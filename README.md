@@ -29,7 +29,7 @@
 
 <div align="left" style="display: inline_block"><br>
   <h3 align="left">Contato:</h3>
-  <a href="https://www.linkedin.com/in/edu7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-mazzini-79a84b33b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
   <div  align="center">
